@@ -110,7 +110,7 @@
   {
     "name": "dimensionDataIsAvailable",
     "description": "dimensionData is available, providing an additional information about the current dimension",
-    "versions": ["1.16", "latest"]
+    "versions": ["1.16.2", "latest"]
   },
   {
     "name": "dimensionDataInCodec",
